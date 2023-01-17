@@ -1,7 +1,7 @@
 
 :root{
-    --primary-color: #6495ED;
-    --secondary-color: #ff993b;
+    --primary-color: #4e6445;
+    --secondary-color: #cdbecb;
     --dark-color: #292929;
     --white-color: #ffffff;
 }
@@ -20,6 +20,11 @@ footer{
 
 h1,h2,h3,h4,h5,h6{
     color:var(--primary-color)
+}
+
+h1{
+    font-family: 'Special Elite', cursive;
+
 }
 
 footer{
