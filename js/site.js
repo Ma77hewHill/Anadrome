@@ -7,10 +7,13 @@ function getValue(){
     displayString(revString);
 }
 
+
+
 //Reverse the string
 //logic function 
 function reverseString(userString){
 
+    
     let revString = [];
 
     
@@ -20,7 +23,7 @@ function reverseString(userString){
         revString += userString[index];
     }
 
-    return revString;
+    return revString
 }
 
 //display the reversed string to the user 
